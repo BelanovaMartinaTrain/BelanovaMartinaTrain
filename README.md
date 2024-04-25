@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**BelanovaMartinaTrain/BelanovaMartinaTrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm looking for a job as a Full stack or Front-end developer.
 
-Here are some ideas to get you started:
+## Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Typescript
+- Python
+- Javascript
+- I can learn any other language that's needed 😄
+
+## Frameworks and Libraries
+
+- React
+- Next.js
+- TailwindCSS
+- Node.js
+- Express
+- Mongoose
+
+## Portfolio
+- check out [martinabelanova.site](https://martinabelanova.site)
